@@ -29,6 +29,16 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+    Provides a seemless User interaction with the site, no loading between components. However, not optimal for ppl with lower internet speeds.
+
+
+
+
+
+
+
+
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
